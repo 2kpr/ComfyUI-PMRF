@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-pmrf"
+description = "Implementation of PMRF on ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/2kpr/ComfyUI-PMRF"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PMRF"
+Icon = ""
