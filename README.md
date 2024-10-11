@@ -13,7 +13,7 @@ git clone https://github.com/2kpr/ComfyUI-PMRF
 
 <br/>
 
-PMRF uses [NATTEN](https://shi-labs.com/natten/), which requires matching it's builds to your ComfyUI's venv/conda environment's CUDA and Torch versions.
+PMRF uses [NATTEN](https://shi-labs.com/natten/), which requires matching its builds to your ComfyUI's venv/conda environment's CUDA and Torch versions.
 
 This isn't a problem on linux as there are ample builds available for CUDA 11.8 to 12.4 and Torch 2.1 to 2.4, but if you are on Windows it is another story. NATTEN doesn't provide any Windows builds, just a means to [build/install NATTEN on Windows yourself](https://github.com/SHI-Labs/NATTEN/blob/main/docs/install.md#build-with-msvc) if you have MSVC and the CUDA toolkit installed, etc.
 
